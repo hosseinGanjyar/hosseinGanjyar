@@ -35,8 +35,18 @@ In progress
 * Master on Leadership
 * NPM custome libraries
 
-* ## ☎️ Contact me
+## ☎️ Contact me
   
 <a href="https://join.skype.com/invite/KdNTrM2Ksle9">
   <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
 </a>
+
+<br />
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hosseinGanjyar&show_icons=true&theme=omni"/>   
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinGanjyar&layout=compact&theme=vision-friendly-dark"/>
+</p>
+
+
