@@ -31,11 +31,4 @@ In progress
 * Master on Web & Full0time working
 * NPM custome libraries
 
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hosseinGanjyar&show_icons=true&theme=omni"/>   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinGanjyar&layout=compact&theme=vision-friendly-dark"/>
-</p>
-
 
