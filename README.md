@@ -28,7 +28,7 @@ In progress
 ## 💻 Goals 2026
 
 * Open source contribution
-* Master on Web & Full0time working
+* Master on Web & Full-time working
 * NPM custome libraries
 
 
